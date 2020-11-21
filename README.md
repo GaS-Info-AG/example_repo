@@ -4,4 +4,4 @@ Dies ist ein Beispiel-Repo. Dieses Repo existiert nur, um euch zu zeigen wie ein
 
 <p>Test</p>
 <h1><i>Test</i></h1>
-  <img src="Ein_Bild_zum_Testen.jpg" alt="Italian Trulli">
+  <img src="Ein_Bild_zum_Testen.jpg"alt="Ein_Bild_zum_Testen">
