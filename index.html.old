@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Ich stehe im Titel der Website.
+        </title>
+    </head>
+    <body>
+        <h1>
+            Ich bin eine Überschrift Yay
+        </h1>
+        <p>
+            Ich bin ein Absatz
+        </p>
+
+        <img src="./Ein_Bild_zum_testen.png" alt="Visual Studio Code Source Control">
+
+
+
+        <hr>
+            Um ein Bild proportionsgleich zu vergrößern oder verkleinern, benötigt man die englischen Wörter height und width.
+            Benutzt man nur eines der beiden Wörter, passt der Computer automatisch die Proportionen an.
+
+        <p>
+            Nur Höhenänderung
+        </p>
+            <img src="./train-mind-optical-illusion.png" alt= "That could be a Picture!" height= 300px >
+        <p> 
+            Bei den Größenangaben ist px (=Pixel) zu empfehlen.
+        </p>
+
+        <p>
+            Gleiche Breitenänderung
+        </p>
+            <img src="./train-mind-optical-illusion.png" alt="That could be a Picture!" width= 300px >
+
+        <hr>
+            Ebenfalls zu empfehlen ist es, das Bild vorab auf die richtige größe zu konvertieren, da der Speicherplatz von dem "Urbild" abhängig ist.
+
+
+
+            <img src="./train-mind-optical-illusion.png" alt="That could be a Picture!" width= 300px  height= 120px>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
